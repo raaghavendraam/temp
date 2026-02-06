@@ -190,6 +190,7 @@ public class linkedlist {
                 System.out.println("Invalid Input");
                 break;
         }
+        System.out.println("change");
     
      }
     }
