@@ -10,6 +10,9 @@ class minHeap {
         arr[size++]= num;
         upheapify(size-1);
     }
+    public void fun(){
+        System.out.println("fahhhhhh");
+    }
     public void upheapify(int i){
         if(i==0) return;
         int parent = (i-1)/2;
